@@ -5,9 +5,9 @@ Visual localization pipeline for drones operating in GNSS-denied environments.
 Forked from [LightGlue](https://github.com/cvg/LightGlue). Our contributions adapt the core LightGlue matching framework to predict a drone’s position within a larger aerial map based purely on visual features.
 
 <!-- Image -->
-<div style="text-align: center;">
-  <img src="./assets/visual_localization.png" alt="Visual Localization" style="max-width: 500px; width: 100%;">
-</div>
+<p align="center">
+  <img src="./assets/visual_localization.png" alt="Visual Localization" style="max-width: 100px; width: 50%;">
+</p>
 
 ## Repository Structure
 
